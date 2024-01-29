@@ -1,0 +1,32 @@
+
+
+
+a{
+  color: white;
+}
+
+.cabecalho {
+  background-color: blue;
+  color: white;
+  display: flex;
+  font-size: 25px;
+  align-items: center;
+}
+
+
+.corpo{
+  background-color: yellow;
+  padding-left: 30%;
+}
+
+.navbar{
+  display: flex;
+  align-items: center;
+  width: 50%;
+}
+.sair{
+  width: 50%;
+  display: flex;
+  justify-content: flex-end;
+  /* border: solid 2px black ; */
+}
